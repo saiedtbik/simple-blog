@@ -40,21 +40,24 @@ func init() {
 	resource := router.Group("/api")
 	resource.Use(middleware.Authenticate())
 	{
-		resource.GET("/post", middleware.Authorize("post", "read", adapter), handler.SearchResource)
+		//resource.GET("/post", middleware.Authorize("post", "read", adapter), handler.SearchResource)
 		resource.POST("/comment", middleware.Authorize("comment", "write", adapter), handler.CreateResource)
 		resource.POST("/post", middleware.Authorize("post", "write", adapter), handler.CreateResource)
 		resource.GET("/comment", middleware.Authorize("comment", "read", adapter), handler.SearchResource)
+
+		resource.GET("/post", middleware.Authorize("post", "read", adapter), handler.SearchPost)
+
 	}
 }
 
 func main() {
-/*	defer func() {
-		err := component.DB.Close()
-		if err != nil {
-			log.Println(fmt.Errorf("failed to close DB connection: %w", err))
-		}
-	}()
-*/
+	/*	defer func() {
+			err := component.DB.Close()
+			if err != nil {
+				log.Println(fmt.Errorf("failed to close DB connection: %w", err))
+			}
+		}()
+	*/
 	err := router.Run(":8081")
 	if err != nil {
 		log.Fatalln(fmt.Errorf("faild to start Gin application: %w", err))
