@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ea5155d-f7ef-4450-a6dc-be5a9b37b140" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/Desktop/Go.v1.16.0.Linux.x64_p30download.com/go1.16.linux-amd64/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="2IuFxxiBNvcEd7zBePn9cWEJYQD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="withCasbin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="withCasbin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="211" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671434323164">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" width="1084" height="710" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1671434323164" />
+    <state width="1802" height="325" key="GridCell.Tab.0.bottom" timestamp="1671436051560">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051560" />
+    <state width="1802" height="325" key="GridCell.Tab.0.center" timestamp="1671436051560">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051560" />
+    <state width="1802" height="325" key="GridCell.Tab.0.left" timestamp="1671436051559">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051559" />
+    <state width="1802" height="325" key="GridCell.Tab.0.right" timestamp="1671436051560">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051560" />
+    <state width="1802" height="325" key="GridCell.Tab.1.bottom" timestamp="1671436051561">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051561" />
+    <state width="1802" height="325" key="GridCell.Tab.1.center" timestamp="1671436051561">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051561" />
+    <state width="1802" height="325" key="GridCell.Tab.1.left" timestamp="1671436051560">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051560" />
+    <state width="1802" height="325" key="GridCell.Tab.1.right" timestamp="1671436051561">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="325" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1671436051561" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1671437033730">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1671437033730" />
+    <state width="924" height="526" key="XDebugger.FullValuePopup" timestamp="1671269773107">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="924" height="526" key="XDebugger.FullValuePopup/72.27.1848.1053@72.27.1848.1053" timestamp="1671269773107" />
+    <state x="522" y="265" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1671265489577">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="522" y="265" width="938" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.1053@72.27.1848.1053" timestamp="1671265489577" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/middleware/access_control.go</url>
+          <line>59</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/middleware/access_control.go</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/middleware/access_control.go</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/middleware/access_control.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/resource_handler.go</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/handler/user_handler.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
